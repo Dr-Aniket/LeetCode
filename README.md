@@ -6,6 +6,7 @@ LeetCode Competitive Programing Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Math
@@ -23,6 +24,7 @@ LeetCode Competitive Programing Solutions
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Depth-First Search
 |  |
@@ -68,4 +70,16 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dr-Aniket/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
