@@ -9,16 +9,15 @@ class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
             def traverse(node,d):
                 if node == None:
-                    return None
+                    return d
                 
                 d += 1
 
-                if d > self.depth:
-                    self.depth = d
+                d1 = traverse(node.left,d)
+                d2 = traverse(node.right,d)
+                    
+                return max(d1,d2)
 
-                traverse(node.left,d)
-                traverse(node.right,d)
-                               
-            traverse(root,0)
+            d = traverse(root,0)
 
-            return self.depth
+            return d
