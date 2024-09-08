@@ -22,9 +22,4 @@ class Solution:
             
             return True
 
-        if not p and not q:
-            return True
-        elif not p or not q:
-            return False      
-
         return traverse(p,q)
