@@ -12,6 +12,7 @@ LeetCode Competitive Programing Solutions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Dr-Aniket/LeetCode/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dr-Aniket/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Dr-Aniket/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
