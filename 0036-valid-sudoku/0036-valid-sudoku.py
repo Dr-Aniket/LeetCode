@@ -20,9 +20,10 @@ class Solution:
         for i in range(9):
             if not valid(board[i]):
                 return False
-            elif not valid([row[i] for row in board]):
+        for i in range(9):
+            if not valid([row[i] for row in board]):
                 return False
-                
+        for i in range(9):
             x = i//3 * 3
             y = i %3 * 3
             arr = board[x][y:y+3] + board[x+1][y:y+3] + board[x+2][y:y+3]
