@@ -19,20 +19,15 @@ class Solution:
 
         for i in range(9):
             if not valid(board[i]):
-                print(f'INVALID ROW')
                 return False
             elif not valid([row[i] for row in board]):
-                print('INVALID COL')
                 return False
                 
-        for n in range(9):
-            i = n//3*3
-            j = n%3 * 3
-            arr = board[i][j:j+3] + board[i+1][j:j+3] + board[i+2][j:j+3]
+            x = i//3 * 3
+            y = i %3 * 3
+            arr = board[x][y:y+3] + board[x+1][y:y+3] + board[x+2][y:y+3]
+
             if not valid(arr):
-                print('INVALID BOX')
-                print(f'{n}\n{arr}')
                 return False
-
-
+        
         return True
