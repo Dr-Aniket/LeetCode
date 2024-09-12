@@ -6,6 +6,7 @@ LeetCode Competitive Programing Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dr-Aniket/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Dr-Aniket/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Dr-Aniket/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ LeetCode Competitive Programing Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dr-Aniket/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Dr-Aniket/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Dr-Aniket/LeetCode/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
