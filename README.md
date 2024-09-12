@@ -10,6 +10,7 @@ LeetCode Competitive Programing Solutions
 | [0036-valid-sudoku](https://github.com/Dr-Aniket/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Dr-Aniket/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dr-Aniket/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -21,6 +22,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dr-Aniket/LeetCode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -76,6 +78,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0202-happy-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
