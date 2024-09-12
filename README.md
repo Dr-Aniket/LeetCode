@@ -29,6 +29,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dr-Aniket/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -42,6 +43,7 @@ LeetCode Competitive Programing Solutions
 | [0049-group-anagrams](https://github.com/Dr-Aniket/LeetCode/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dr-Aniket/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -144,4 +146,8 @@ LeetCode Competitive Programing Solutions
 | [0290-word-pattern](https://github.com/Dr-Aniket/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
