@@ -9,6 +9,7 @@ LeetCode Competitive Programing Solutions
 | [0036-valid-sudoku](https://github.com/Dr-Aniket/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Dr-Aniket/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Dr-Aniket/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
@@ -106,6 +107,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Dr-Aniket/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -129,6 +131,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Dr-Aniket/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dr-Aniket/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
