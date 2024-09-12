@@ -8,6 +8,7 @@ LeetCode Competitive Programing Solutions
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dr-Aniket/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -126,6 +127,7 @@ LeetCode Competitive Programing Solutions
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
