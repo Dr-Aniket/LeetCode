@@ -40,6 +40,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dr-Aniket/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Dr-Aniket/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Dr-Aniket/LeetCode/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -130,6 +131,7 @@ LeetCode Competitive Programing Solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Number Theory
 |  |
