@@ -33,6 +33,7 @@ LeetCode Competitive Programing Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dr-Aniket/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Dr-Aniket/LeetCode/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -90,6 +91,7 @@ LeetCode Competitive Programing Solutions
 | [0125-valid-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Dr-Aniket/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +162,7 @@ LeetCode Competitive Programing Solutions
 | [0242-valid-anagram](https://github.com/Dr-Aniket/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dr-Aniket/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Dr-Aniket/LeetCode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dr-Aniket/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
