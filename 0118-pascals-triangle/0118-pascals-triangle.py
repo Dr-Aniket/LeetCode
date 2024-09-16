@@ -10,7 +10,8 @@ class Solution:
                     row.append(1)
                     break
                 else:
-                    row.append(tri[-1][j-1]+tri[-1][j])
+                    prev_row = tri[-1]
+                    row.append(prev_row[j-1]+prev_row[j])
             tri.append(row)
 
         return tri
