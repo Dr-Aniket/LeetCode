@@ -169,6 +169,7 @@ LeetCode Competitive Programing Solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Dr-Aniket/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dr-Aniket/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Dr-Aniket/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## String
 |  |
 | ------- |
