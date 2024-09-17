@@ -28,6 +28,7 @@ LeetCode Competitive Programing Solutions
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Dr-Aniket/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Dr-Aniket/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Dr-Aniket/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -65,6 +66,7 @@ LeetCode Competitive Programing Solutions
 | [1435-xor-queries-of-a-subarray](https://github.com/Dr-Aniket/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dr-Aniket/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Dr-Aniket/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Depth-First Search
 |  |
