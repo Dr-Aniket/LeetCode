@@ -5,4 +5,4 @@ class Solution:
 
         nums = sorted(set(nums), key = count,reverse=True)
 
-        return [nums[0],nums[1]]
+        return nums[:2]
