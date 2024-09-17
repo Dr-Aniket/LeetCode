@@ -66,12 +66,14 @@ LeetCode Competitive Programing Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Dr-Aniket/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Dr-Aniket/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Dr-Aniket/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
 |  |
@@ -115,6 +117,7 @@ LeetCode Competitive Programing Solutions
 | [0100-same-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Dr-Aniket/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +125,7 @@ LeetCode Competitive Programing Solutions
 | [0100-same-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Dr-Aniket/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +150,7 @@ LeetCode Competitive Programing Solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Dr-Aniket/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Number Theory
 |  |
 | ------- |
