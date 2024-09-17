@@ -28,6 +28,7 @@ LeetCode Competitive Programing Solutions
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Dr-Aniket/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Dr-Aniket/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Dynamic Programming
@@ -183,6 +184,7 @@ LeetCode Competitive Programing Solutions
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dr-Aniket/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Dr-Aniket/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Greedy
 |  |
 | ------- |
