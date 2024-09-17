@@ -16,8 +16,8 @@ class Solution:
         
         traverse(root)
         minDif = None
-        
-        for i,j in zip(lst[:-1],lst[1:]):
+        l1,l2 = lst[:-1],lst[1:]
+        for i,j in zip(l1,l2):
             if minDif == None:
                 minDif = j-i
             elif j-i < minDif:
