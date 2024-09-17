@@ -16,6 +16,7 @@ LeetCode Competitive Programing Solutions
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Dr-Aniket/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Dr-Aniket/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dr-Aniket/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -138,6 +139,7 @@ LeetCode Competitive Programing Solutions
 | ------- |
 | [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Dr-Aniket/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search Tree
 |  |
@@ -168,6 +170,7 @@ LeetCode Competitive Programing Solutions
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Dr-Aniket/LeetCode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Dr-Aniket/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dr-Aniket/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Greedy
