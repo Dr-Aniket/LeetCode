@@ -178,6 +178,7 @@ LeetCode Competitive Programing Solutions
 | [0920-uncommon-words-from-two-sentences](https://github.com/Dr-Aniket/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dr-Aniket/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
 | ------- |
@@ -195,4 +196,8 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Dr-Aniket/LeetCode/tree/master/0068-text-justification) |
+## Sliding Window
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
