@@ -14,9 +14,9 @@ class Solution:
             lst.append(node.val)
             minDif = traverse(node.right)
         
-        minDif = None
-
         traverse(root)
+        minDif = None
+        
         for i,j in zip(lst[:-1],lst[1:]):
             if minDif == None:
                 minDif = j-i
