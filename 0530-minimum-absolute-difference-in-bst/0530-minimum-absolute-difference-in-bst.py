@@ -16,11 +16,11 @@ class Solution:
         
         traverse(root)
         minDif = None
-        l1,l2 = lst[:-1],lst[1:]
-        for i,j in zip(l1,l2):
+        size = len(lst)
+        for i in range(size-1):
             if minDif == None:
-                minDif = j-i
-            elif j-i < minDif:
-                minDif = j-i
+                minDif = lst[i+1]-lst[i]
+            elif lst[i+1]-lst[i] < minDif:
+                minDif = lst[i+1]-lst[i]
         return minDif
             
