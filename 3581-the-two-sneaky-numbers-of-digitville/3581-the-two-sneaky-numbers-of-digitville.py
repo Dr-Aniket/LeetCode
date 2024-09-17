@@ -3,6 +3,4 @@ class Solution:
         def count(n):
             return nums.count(n)
 
-        nums = sorted(set(nums), key = count,reverse=True)
-
-        return nums[:2]
+        return sorted(set(nums), key = count,reverse=True)[:2]
