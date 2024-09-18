@@ -12,4 +12,4 @@ class Solution:
             else:
                 return str(i)
 
-        return [place(i) for i in score]
+        return list(map(place,score))
