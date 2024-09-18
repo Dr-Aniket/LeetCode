@@ -5,7 +5,6 @@ class Solution:
             nums1 = nums2.copy()
             nums2 = temp.copy()
                     
-        # return [i for i in nums1 if i in nums2]
         ans = []
         for i in nums1:
             if i in nums2:
