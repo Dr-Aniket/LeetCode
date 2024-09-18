@@ -83,6 +83,7 @@ LeetCode Competitive Programing Solutions
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Dr-Aniket/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Dr-Aniket/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Dr-Aniket/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dr-Aniket/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -130,6 +131,7 @@ LeetCode Competitive Programing Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Dr-Aniket/LeetCode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/Dr-Aniket/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +183,7 @@ LeetCode Competitive Programing Solutions
 | [0645-set-mismatch](https://github.com/Dr-Aniket/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Dr-Aniket/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Dr-Aniket/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
