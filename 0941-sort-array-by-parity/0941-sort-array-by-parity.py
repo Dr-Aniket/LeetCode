@@ -3,10 +3,9 @@ class Solution:
         ans = []
         i = 0
         while i < len(nums):
-            ele = nums[i]
-            if ele%2 == 0:
-                ans.append(ele)
-                nums.remove(ele)
+            if nums[i]%2 == 0:
+                ans.append(nums[i])
+                nums.remove(nums[i])
             else:
                 i += 1
         return ans + nums
