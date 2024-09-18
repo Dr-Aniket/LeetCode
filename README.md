@@ -17,6 +17,7 @@ LeetCode Competitive Programing Solutions
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Dr-Aniket/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Dr-Aniket/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Dr-Aniket/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -67,6 +68,7 @@ LeetCode Competitive Programing Solutions
 | [0179-largest-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Dr-Aniket/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Dr-Aniket/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Dr-Aniket/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -112,6 +114,7 @@ LeetCode Competitive Programing Solutions
 | [0125-valid-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Dr-Aniket/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Dr-Aniket/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -154,6 +157,7 @@ LeetCode Competitive Programing Solutions
 | [0217-contains-duplicate](https://github.com/Dr-Aniket/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dr-Aniket/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Dr-Aniket/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
@@ -168,6 +172,7 @@ LeetCode Competitive Programing Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Dr-Aniket/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dr-Aniket/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Number Theory
 |  |
