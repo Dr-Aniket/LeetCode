@@ -7,6 +7,7 @@ class Solution:
                 ans[0] = i
             elif count == 0:
                 ans[1] = i
+            
             if ans[0] != -1 and ans[1] != -1:
                 break
         
