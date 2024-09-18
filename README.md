@@ -52,6 +52,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0506-relative-ranks](https://github.com/Dr-Aniket/LeetCode/tree/master/0506-relative-ranks) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -73,6 +74,7 @@ LeetCode Competitive Programing Solutions
 | [0349-intersection-of-two-arrays](https://github.com/Dr-Aniket/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Dr-Aniket/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Dr-Aniket/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -166,6 +168,7 @@ LeetCode Competitive Programing Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Dr-Aniket/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
