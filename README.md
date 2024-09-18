@@ -80,6 +80,7 @@ LeetCode Competitive Programing Solutions
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dr-Aniket/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Dr-Aniket/LeetCode/tree/master/0645-set-mismatch) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Dr-Aniket/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Dr-Aniket/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -176,6 +177,7 @@ LeetCode Competitive Programing Solutions
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dr-Aniket/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Dr-Aniket/LeetCode/tree/master/0645-set-mismatch) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Dr-Aniket/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Counting
 |  |
 | ------- |
