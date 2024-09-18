@@ -12,6 +12,7 @@ LeetCode Competitive Programing Solutions
 | [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Dr-Aniket/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dr-Aniket/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Dr-Aniket/LeetCode/tree/master/0290-word-pattern) |
@@ -62,6 +63,7 @@ LeetCode Competitive Programing Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Dr-Aniket/LeetCode/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Dr-Aniket/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -146,6 +148,7 @@ LeetCode Competitive Programing Solutions
 | [0049-group-anagrams](https://github.com/Dr-Aniket/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dr-Aniket/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Dr-Aniket/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dr-Aniket/LeetCode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Counting
