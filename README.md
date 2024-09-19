@@ -31,6 +31,7 @@ LeetCode Competitive Programing Solutions
 | ------- |
 | [0050-powx-n](https://github.com/Dr-Aniket/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dr-Aniket/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -48,6 +49,7 @@ LeetCode Competitive Programing Solutions
 | [0119-pascals-triangle-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dr-Aniket/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dr-Aniket/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Dr-Aniket/LeetCode/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
@@ -144,6 +146,7 @@ LeetCode Competitive Programing Solutions
 | [0021-merge-two-sorted-lists](https://github.com/Dr-Aniket/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Dr-Aniket/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dr-Aniket/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -226,6 +229,7 @@ LeetCode Competitive Programing Solutions
 | [0125-valid-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dr-Aniket/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Dr-Aniket/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dr-Aniket/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Dr-Aniket/LeetCode/tree/master/0383-ransom-note) |
@@ -261,4 +265,8 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dr-Aniket/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
