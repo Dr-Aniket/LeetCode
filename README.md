@@ -229,6 +229,7 @@ LeetCode Competitive Programing Solutions
 | [0125-valid-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dr-Aniket/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Dr-Aniket/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dr-Aniket/LeetCode/tree/master/0290-word-pattern) |
@@ -269,4 +270,16 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dr-Aniket/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
