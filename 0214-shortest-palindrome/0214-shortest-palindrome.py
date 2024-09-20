@@ -2,13 +2,12 @@ class Solution:
     def shortestPalindrome(self, s: str) -> str:
         if not s:
             return s
-        s = list(s)
         append_at = 0
         for c in s[::-1]:
             if s == s[::-1]:
-                return ''.join(s)
+                return s
             else:
-                s.insert(append_at,c)
+                s = s[:append_at] + c + s[append_at:]
                 append_at += 1
         
 
