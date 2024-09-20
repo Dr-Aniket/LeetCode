@@ -3,7 +3,8 @@ class Solution:
         if not s:
             return s
         append_at = 0
-        for c in s[::-1]:
+        invert_s = s[::-1]
+        for c in invert_s:
             if s == s[::-1]:
                 return s
             else:
