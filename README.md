@@ -98,6 +98,7 @@ LeetCode Competitive Programing Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Dr-Aniket/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Dr-Aniket/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dr-Aniket/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
@@ -282,4 +283,8 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Dr-Aniket/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
