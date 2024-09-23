@@ -16,14 +16,16 @@ class Solution:
             path.append(node.val)
         
             if node.left == None and node.right == None:
-                paths.append( sum(path) == targetSum)
+                if sum(path) == targetSum:
+                    return True
             else:
-                dfs(node.left)
-                dfs(node.right)
-            
+                if dfs(node.left):
+                    return True
+                if dfs(node.right):
+                    return True
+                                
             path.pop()
-        dfs(root)
         
-        return any(paths)
-
+        return dfs(root)
+        
                 
