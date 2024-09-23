@@ -20,7 +20,7 @@ class Solution:
             else:
                 if dfs(node.left):
                     return True
-                if dfs(node.right):
+                elif dfs(node.right):
                     return True
                                 
             path.pop()
