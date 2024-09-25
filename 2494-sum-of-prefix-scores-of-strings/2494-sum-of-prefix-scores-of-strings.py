@@ -1,26 +1,45 @@
-from collections import defaultdict
 from typing import List
+
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.prefix_count = 0
+
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
+    
+    def insert(self, word: str):
+        node = self.root
+        for char in word:
+            if char not in node.children:
+                node.children[char] = TrieNode()
+            node = node.children[char]
+            node.prefix_count += 1
+    
+    def get_prefix_score(self, word: str) -> int:
+        node = self.root
+        score = 0
+        for char in word:
+            if char in node.children:
+                node = node.children[char]
+                score += node.prefix_count
+            else:
+                break
+        return score
 
 class Solution:
     def sumPrefixScores(self, words: List[str]) -> List[int]:
-        # Dictionary to store the frequency of each prefix
-        prefix_count = defaultdict(int)
+        # Initialize Trie
+        trie = Trie()
         
-        # First, count how many words have each prefix
+        # Insert all words into the Trie
         for word in words:
-            prefix = ""
-            for char in word:
-                prefix += char
-                prefix_count[prefix] += 1
+            trie.insert(word)
         
-        # Now, calculate the sum of prefix scores for each word
+        # Calculate the sum of prefix scores for each word
         result = []
         for word in words:
-            prefix = ""
-            total_score = 0
-            for char in word:
-                prefix += char
-                total_score += prefix_count[prefix]
-            result.append(total_score)
+            result.append(trie.get_prefix_score(word))
         
         return result
