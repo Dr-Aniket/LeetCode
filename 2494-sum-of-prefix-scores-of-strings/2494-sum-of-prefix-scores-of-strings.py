@@ -16,17 +16,6 @@ class Trie:
                 node.children[char] = TrieNode()
             node = node.children[char]
             node.prefix_count += 1
-    
-    def get_prefix_score(self, word: str) -> int:
-        node = self.root
-        score = 0
-        for char in word:
-            if char in node.children:
-                node = node.children[char]
-                score += node.prefix_count
-            else:
-                break
-        return score
 
 class Solution:
     def sumPrefixScores(self, words: List[str]) -> List[int]:
@@ -37,9 +26,14 @@ class Solution:
         for word in words:
             trie.insert(word)
         
-        # Calculate the sum of prefix scores for each word
+        # Calculate the sum of prefix scores for each word in a single traversal
         result = []
         for word in words:
-            result.append(trie.get_prefix_score(word))
+            node = trie.root
+            total_score = 0
+            for char in word:
+                node = node.children[char]
+                total_score += node.prefix_count
+            result.append(total_score)
         
         return result
