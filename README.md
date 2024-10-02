@@ -24,6 +24,7 @@ LeetCode Competitive Programing Solutions
 | [0645-set-mismatch](https://github.com/Dr-Aniket/LeetCode/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Dr-Aniket/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/Dr-Aniket/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dr-Aniket/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dr-Aniket/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -91,6 +92,7 @@ LeetCode Competitive Programing Solutions
 | [0941-sort-array-by-parity](https://github.com/Dr-Aniket/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0999-regions-cut-by-slashes](https://github.com/Dr-Aniket/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Dr-Aniket/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Dr-Aniket/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dr-Aniket/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -201,6 +203,7 @@ LeetCode Competitive Programing Solutions
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Dr-Aniket/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Dr-Aniket/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Dr-Aniket/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
