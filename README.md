@@ -155,6 +155,7 @@ LeetCode Competitive Programing Solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dr-Aniket/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Dr-Aniket/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -262,6 +263,7 @@ LeetCode Competitive Programing Solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Dr-Aniket/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Dr-Aniket/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dr-Aniket/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Dr-Aniket/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -285,6 +287,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Dr-Aniket/LeetCode/tree/master/0068-text-justification) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Dr-Aniket/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
