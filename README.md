@@ -150,6 +150,7 @@ LeetCode Competitive Programing Solutions
 | [0392-is-subsequence](https://github.com/Dr-Aniket/LeetCode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/Dr-Aniket/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [3195-separate-black-and-white-balls](https://github.com/Dr-Aniket/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -266,6 +267,7 @@ LeetCode Competitive Programing Solutions
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Dr-Aniket/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dr-Aniket/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/Dr-Aniket/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dr-Aniket/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Dr-Aniket/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -276,6 +278,7 @@ LeetCode Competitive Programing Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dr-Aniket/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3195-separate-black-and-white-balls](https://github.com/Dr-Aniket/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
 | ------- |
