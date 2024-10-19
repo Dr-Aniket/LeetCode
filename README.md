@@ -165,6 +165,7 @@ LeetCode Competitive Programing Solutions
 | [0050-powx-n](https://github.com/Dr-Aniket/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dr-Aniket/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dr-Aniket/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
 |  |
 | ------- |
@@ -263,6 +264,7 @@ LeetCode Competitive Programing Solutions
 | [0920-uncommon-words-from-two-sentences](https://github.com/Dr-Aniket/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dr-Aniket/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dr-Aniket/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dr-Aniket/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Dr-Aniket/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -293,6 +295,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Dr-Aniket/LeetCode/tree/master/0068-text-justification) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dr-Aniket/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dr-Aniket/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
