@@ -103,6 +103,7 @@ LeetCode Competitive Programing Solutions
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dr-Aniket/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Dr-Aniket/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dr-Aniket/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Dr-Aniket/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -274,6 +275,7 @@ LeetCode Competitive Programing Solutions
 | [2755-extra-characters-in-a-string](https://github.com/Dr-Aniket/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dr-Aniket/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Dr-Aniket/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dr-Aniket/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Dr-Aniket/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -315,15 +317,18 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0214-shortest-palindrome) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Dr-Aniket/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
@@ -331,5 +336,6 @@ LeetCode Competitive Programing Solutions
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Dr-Aniket/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Dr-Aniket/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Dr-Aniket/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dr-Aniket/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
