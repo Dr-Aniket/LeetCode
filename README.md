@@ -111,6 +111,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dr-Aniket/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dr-Aniket/LeetCode/tree/master/0112-path-sum) |
@@ -173,6 +174,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dr-Aniket/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -182,6 +184,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dr-Aniket/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -226,6 +229,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0098-validate-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dr-Aniket/LeetCode/tree/master/0349-intersection-of-two-arrays) |
