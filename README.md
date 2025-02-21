@@ -51,6 +51,7 @@ LeetCode Competitive Programing Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dr-Aniket/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Dr-Aniket/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dr-Aniket/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ LeetCode Competitive Programing Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Dr-Aniket/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Dr-Aniket/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Dr-Aniket/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Dr-Aniket/LeetCode/tree/master/0068-text-justification) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dr-Aniket/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Dr-Aniket/LeetCode/tree/master/0118-pascals-triangle) |
@@ -290,6 +292,7 @@ LeetCode Competitive Programing Solutions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dr-Aniket/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dr-Aniket/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
