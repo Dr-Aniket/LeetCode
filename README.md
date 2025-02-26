@@ -51,6 +51,7 @@ LeetCode Competitive Programing Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dr-Aniket/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Dr-Aniket/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Dr-Aniket/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -72,6 +73,7 @@ LeetCode Competitive Programing Solutions
 | [0001-two-sum](https://github.com/Dr-Aniket/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dr-Aniket/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Dr-Aniket/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Dr-Aniket/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Dr-Aniket/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Dr-Aniket/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Dr-Aniket/LeetCode/tree/master/0068-text-justification) |
@@ -149,6 +151,7 @@ LeetCode Competitive Programing Solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Dr-Aniket/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Dr-Aniket/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -161,6 +164,7 @@ LeetCode Competitive Programing Solutions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dr-Aniket/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dr-Aniket/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dr-Aniket/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -348,4 +352,8 @@ LeetCode Competitive Programing Solutions
 | [2755-extra-characters-in-a-string](https://github.com/Dr-Aniket/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dr-Aniket/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dr-Aniket/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dr-Aniket/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
