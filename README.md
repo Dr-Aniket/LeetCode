@@ -42,6 +42,7 @@ LeetCode Competitive Programing Solutions
 | [0268-missing-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dr-Aniket/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dr-Aniket/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dr-Aniket/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Dr-Aniket/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Dr-Aniket/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
