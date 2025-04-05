@@ -63,6 +63,7 @@ LeetCode Competitive Programing Solutions
 | [0241-different-ways-to-add-parentheses](https://github.com/Dr-Aniket/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Dr-Aniket/LeetCode/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/Dr-Aniket/LeetCode/tree/master/0403-frog-jump) |
 | [2755-extra-characters-in-a-string](https://github.com/Dr-Aniket/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -92,6 +93,7 @@ LeetCode Competitive Programing Solutions
 | [0268-missing-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dr-Aniket/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dr-Aniket/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0403-frog-jump](https://github.com/Dr-Aniket/LeetCode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Dr-Aniket/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Dr-Aniket/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Dr-Aniket/LeetCode/tree/master/0539-minimum-time-difference) |
